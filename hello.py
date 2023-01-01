@@ -8,7 +8,7 @@ def summation(x, y):
 
 # x=1
 # y=2
-var =
+#var =
 result = summation(1, 2)
 # print(f"This is the add: {x}, {y}, {adding(x,y)}")
 # print(f"This is the sum: {x}, {y}, {summation(x,y)}")
